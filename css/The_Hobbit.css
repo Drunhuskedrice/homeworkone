@@ -1,0 +1,18 @@
+@charset "utf-8";
+body{
+ background-color: #150706;
+ color: #c6a387;
+}
+#word{
+ margin-left: 14%;
+}
+#picture{
+ width: 1400px;
+}
+#video{
+ margin-left: 13%;
+}
+#word1{
+ margin-left: 43.5%;
+}
+
